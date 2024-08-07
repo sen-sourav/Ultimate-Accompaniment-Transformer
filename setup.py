@@ -5,7 +5,6 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=[
-        # List your dependencies here
         'torch',
         'tqdm',
         'matplotlib',
@@ -15,4 +14,3 @@ setup(
         # Add any other dependencies
     ],
 )
-
